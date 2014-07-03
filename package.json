@@ -1,13 +1,13 @@
 {
   "name": "component-react",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jack Tzu-Chieh Huang <u9520107@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "envify": "^1.2.1",
     "gulp": "^3.8.5",
