@@ -1,0 +1,5 @@
+{
+	"name": "react",
+	"main": "react/ReactWithAddons.js",
+	"scripts": ["react/*.js"]
+}

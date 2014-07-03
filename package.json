@@ -1,0 +1,16 @@
+{
+  "name": "component-react",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "envify": "^1.2.1",
+    "gulp": "^3.8.5",
+    "react": "^0.10.0"
+  }
+}
