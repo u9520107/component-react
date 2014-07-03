@@ -1,5 +1,5 @@
 {
 	"name": "react",
-	"main": "react/ReactWithAddons.js",
+	"main": "react/React.js",
 	"scripts": ["react/*.js"]
 }
