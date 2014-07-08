@@ -1,5 +1,6 @@
 {
 	"name": "react",
 	"main": "react/react.js",
-	"scripts": ["react/react.js"]
+	"scripts": ["react/react.js"],
+	"repo": "u9520107/component-react"
 }
