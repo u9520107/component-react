@@ -1,5 +1,5 @@
 {
 	"name": "react",
-	"main": "react/React.js",
-	"scripts": ["react/*.js"]
+	"main": "react/react.js",
+	"scripts": ["react/react.js"]
 }

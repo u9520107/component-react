@@ -11,6 +11,6 @@
   "devDependencies": {
     "envify": "^1.2.1",
     "gulp": "^3.8.5",
-    "react": "^0.10.0"
+    "request": "^2.37.0"
   }
 }
