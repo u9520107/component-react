@@ -1,5 +1,6 @@
 {
 	"name": "react",
+	"version": "0.0.1",
 	"main": "react/react.js",
 	"scripts": ["react/react.js"],
 	"repo": "u9520107/component-react"
