@@ -1,8 +1,7 @@
 {
   "name": "component-react",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Packages browser built react.js into a component module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
