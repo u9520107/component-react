@@ -3,7 +3,7 @@ var fs = require('fs');
 var request = require('request');
 var path = require('path');
 
-var version = '0.11.1';
+var version = '0.11.2';
 var root = 'http://fb.me/';
 
 gulp.task('copy-react', function (cb) {
